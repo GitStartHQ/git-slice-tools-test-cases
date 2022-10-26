@@ -2,9 +2,9 @@ ignore-dir-1
 ignore-sub-dir-1
 
 ignore-dir-2
-!ignore-dir-2-keep-file.md
+!ignore-dir-2/ignore-dir-2-keep-file.md
 
 ignore-sub-dir-2
-!ignore-sub-dir-2-keep-file.md
+!ignore-sub-dir-2/ignore-sub-dir-2-keep-file.md
 
 ignore-file.md
