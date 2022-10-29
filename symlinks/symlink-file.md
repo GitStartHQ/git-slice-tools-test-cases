@@ -1,0 +1,1 @@
+/Users/kentnguyen/Projects/git-slice-poc/.test_dir/pull-1667020718612/slice/symlinks/symlink-org-file.md
