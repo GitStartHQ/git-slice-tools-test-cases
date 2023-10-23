@@ -1,1 +1,1 @@
-../symlink-org-file.md
+../file-1.md
