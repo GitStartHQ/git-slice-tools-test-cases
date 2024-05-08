@@ -1,0 +1,1 @@
+../symlink-org-file.md
